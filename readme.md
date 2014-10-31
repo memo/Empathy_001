@@ -8,7 +8,7 @@ Copyright © 2014, Memo Akten
 
 
 # Dependencies
-Written in C++ with [openFrameworks](http://openframeworks.cc)
+Written in C++ built on [openFrameworks](https://github.com/openframeworks/openframeworks)
 (current version built with v0.8.4)
 
 Should work on any system that supports openFrameworks, but tested on OSX 10.9.5
