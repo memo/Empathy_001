@@ -1,5 +1,6 @@
 # Realism, abstraction and empathy in video game violence 
-Video playback and data capture app for ***Realism, abstraction and empathy in video game violence* ** study
+Video playback and data capture app for ***Realism, abstraction and empathy in video game violence*** study
+
 Copyright © 2014, Memo Akten
 
 
@@ -9,7 +10,8 @@ Written in C++ with [openFrameworks](http://openframeworks.cc)
 (current version built with v0.8.4)
 
 Should work on any system that supports openFrameworks, but tested on OSX 10.9.5
-Update: Uses CGWarpMouseCursorPosition to set mouse position (to reset mouse to center before data capture). This will only work on OSX. This is not critical behaviour so can be commented out.
+
+**Update**: Uses CGWarpMouseCursorPosition to set mouse position (to reset mouse to center before data capture). This will only work on OSX. This is not critical behaviour so can be commented out.
 
 
 
